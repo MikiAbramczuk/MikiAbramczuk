@@ -1691,6 +1691,7 @@ p {
   }
 
   .custom-slider {
+    margin-left: -1.5rem;
     padding: 10px;
   }
 
@@ -1882,6 +1883,7 @@ p {
   }
 
   .custom-slider {
+    margin-left: 0;
     padding: 0;
   }
 
